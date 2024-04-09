@@ -25,7 +25,7 @@ elif platform.system() == 'Linux':
 
 def main():
 	
-	print \
+	print \()
 """
 \033[01;33m     ...    .     ...                                        ...                         .          ..    ..       \033[0m   
 \033[01;33m  .~`"888x.!**h.-``888h.                                  xH88"`~ .x8X      .uef^"      @88>  x .d88"   dF         \033[0m  
